@@ -54,6 +54,7 @@
 - **Página principal com a vitrine dos produtos em destaque (esse esquema Mercado Livre, Submarino, Americanas). Tem a possibilidade de filtrar o conteúdo por departamento, seção ou categoria de produto. Tecnologia utilizada: css, html e bootstrap.** <br>
     Front-end: https://github.com/queleandrade/lojavirtual_roupas
 -  **Redenerizei uma página institucional em react.js, desenvolvi o CRUD em javaScript, além de ter CSS e html.** <br>
-    Projeto: https://github.com/queleandrade/agencia-cronos-adm.git   
-
- 
+    Repositório https://github.com/queleandrade/agencia-cronos-adm.git   
+- **Desenvolvi um trabalho voluntário em grupo na ONG Soul Sister que ajuda mulheres em situação de vulnerabilidade social e violências de gênero. No link encurtador.com.br/dI036 fala detalhado sobre a ONG, o propósito e suas demandas, além, da organização do projeto em Kaban e todas as tecnologias utilizadas.**
+    Repositório: https://github.com/gabezrodz/soul-sisters 
+    Site: https://gabezrodz.github.io/soul-sisters/ 
