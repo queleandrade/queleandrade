@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **ENGENHARIA DA COMPUTAÇÃO** na <a href="https://ufrb.edu.br/portal/">UFRB</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **REACT.JS, NODE.JS, BANCO DE DADOS, API**.
+- 🌱 &nbsp; Domino **REACT.JS, NODE.JS, BANCO DE DADOS, API**.
 - 💼 &nbsp; Tenho experiência trabalhando em equipe divida por squads e núcleos, aplicando a metodologia ágil Scrum.
 - Tenho um viés mais voltado a front-end, UX/UI, tenho aprendizado rápido e viés startup.
 
