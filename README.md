@@ -10,9 +10,9 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Quele Andrade](https://img.shields.io/badge/-SeuNome-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/queleandrade/)](https://www.linkedin.com/in/queleandrade/)
-[![Gmail Badge](https://img.shields.io/badge/-seu.email@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quele.andrade43@gmail.com)](mailto:quele.andrade43@gmail.com)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/SeuUsuario?label=follow&style=social)](https://github.com/seu-usuario)
+[![Linkedin: Quele Andrade](https://img.shields.io/badge/-queleandrade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/queleandrade/)](https://www.linkedin.com/in/queleandrade/)
+[![Gmail Badge](https://img.shields.io/badge/-quele.andrade43@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quele.andrade43@gmail.com)](mailto:quele.andrade43@gmail.com)
+[![GitHub queleandrade]( https://img.shields.io/github/followers/queleandrade?label=follow&style=social)](https://github.com/seu-usuario)
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -34,7 +34,7 @@
 
 **Ferramentas de Visualização**
 
-![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=power-bi) - aperfeiçoando
+![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=power-bi) - aperfeiçoando <br>
 ![Metabase](https://img.shields.io/badge/-Metabase-333333?style=flat&logo=metabase) - aperfeiçoando
 
 **Utilidades**
