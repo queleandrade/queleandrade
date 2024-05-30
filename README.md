@@ -52,6 +52,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 
-[![iuricode](https://github-readme-stats.vercel.app/api?username=iuricode&theme=synthwave)](https://github.com/queleandrade/)
+[![queleandrade](https://github-readme-stats.vercel.app/api?username=queleandrade&theme=synthwave)](https://github.com/queleandrade/)
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=synthwave)](https://github.com/queleandrade/)
+[![queleandrade](https://github-readme-stats.vercel.app/api/top-langs/?username=queleandrade&hide=html&layout=compact&theme=synthwave)](https://github.com/queleandrade/)
