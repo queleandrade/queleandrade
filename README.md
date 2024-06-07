@@ -56,6 +56,4 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
 ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
 
-[![queleandrade](https://github-readme-stats.vercel.app/api?username=queleandrade&theme=synthwave)](https://github.com/queleandrade/)
 
-[![queleandrade](https://github-readme-stats.vercel.app/api/top-langs/?username=queleandrade&hide=html&layout=compact&theme=synthwave)](https://github.com/queleandrade/)
